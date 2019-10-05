@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPCalculadora</string>
+    <string name="introduce_un_n_mero">Introduce un número</string>
+</resources>
